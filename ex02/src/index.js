@@ -9,5 +9,6 @@ function main (){
     // Only change code above this line
     return myRes;
 }
-console.log(main()}
+
+console.log(main());
 module.exports = main;  
