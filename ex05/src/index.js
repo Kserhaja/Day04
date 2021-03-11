@@ -1,4 +1,4 @@
-function main (){
+function main (numOne, numTwo){
 
     // only change code below this line
     
@@ -7,6 +7,7 @@ function main (){
     var product = numOne * numTwo
 
     // Only change code above this line
+    
     return product;
 }
 
