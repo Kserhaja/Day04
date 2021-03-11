@@ -12,6 +12,6 @@ function main (numOne, numTwo){
 }
 
 console.log(main(5, 2)); // change this line
-console.log(main(16.5, 5.5)); // change this line
-console.log(main(102.00, 25.50)); // change this line
+console.log(main(15, 4)); // change this line
+console.log(main(102, 25)); // change this line
 module.exports = main;
